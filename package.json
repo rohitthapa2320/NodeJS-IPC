@@ -1,0 +1,22 @@
+{
+  "name": "child-processes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohitthapa2320/Learning-NodeJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohitthapa2320/Learning-NodeJS/issues"
+  },
+  "homepage": "https://github.com/rohitthapa2320/Learning-NodeJS#readme",
+  "dependencies": {
+    "node-ipc": "^9.1.4"
+  }
+}
